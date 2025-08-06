@@ -27,10 +27,6 @@
     </div>
     <br>
     <div>
-      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunaGo%2Fhit-counter&count_bg=%23141321&title_bg=%23FE428E&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false"/></a>
-    </div>
-    <br>
-    <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunaGo&layout=compact&theme=radical" style="height:180px">
       <img src="https://github-readme-stats.vercel.app/api?username=EunaGo&show_icons=true&include_all_commits=true&theme=radical" style="height:180px">
     </div>
